@@ -1,2 +1,2 @@
 # Keylogger
-A keylogger. Barely worked on this.
+Simplest possible Python keylogger. Created to test out powershell manipulation.
