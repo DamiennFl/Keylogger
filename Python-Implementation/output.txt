@@ -1,13 +1,17 @@
-d
-a
-s
-d
-s
-a
-d
-a
-s
-d
-s
-a
-d
+Key pressed: right shift
+Key pressed: H
+Key pressed: e
+Key pressed: l
+Key pressed: l
+Key pressed: o
+Key pressed: ,
+Key pressed: right shift
+Key pressed: W
+Key pressed: o
+Key pressed: r
+Key pressed: l
+Key pressed: d
+Key pressed: right shift
+Key pressed: !
+Key pressed: ctrl
+Key pressed: c
