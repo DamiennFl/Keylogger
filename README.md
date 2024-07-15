@@ -1,4 +1,4 @@
 # Keylogger
 Simplest possible Python keylogger. Created to test out powershell manipulation.
 
-![](https://github.com/DamiennFl/Keylogger/blob/main/Keylogger%20Example.mp4)
+https://github.com/user-attachments/assets/1045e13a-b838-4cea-8bd4-fb511a14b581
